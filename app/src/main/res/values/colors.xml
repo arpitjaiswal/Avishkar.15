@@ -2,9 +2,22 @@
 <resources>
     <color name="purple_500">#9c27b0</color>
     <color name="purple_700">#7b1fa2</color>
+    
+    <color name="deep_orange_a200">#ff6e40</color>
     <color name="deep_orange_a400">#ff3d00</color>
+    <color name="deep_orange_a700">#dd2c00</color>
 
-    <color name="primary">@color/purple_500</color>
-    <color name="primaryDark">@color/purple_700</color>
+    <color name="indigo_500">#3f51b5</color>
+    <color name="indigo_800">#283593</color>
+
+    <color name="light_blue_500">#03a9f4</color>
+    <color name="light_blue_700">#0288d1</color>
+    <color name="light_blue_800">#0277bd</color>
+    <color name="light_blue_900">#01579b</color>
+
+
+
+    <color name="primary">@color/light_blue_700</color>
+    <color name="primaryDark">@color/light_blue_900</color>
     <color name="accent">@color/deep_orange_a400</color>
 </resources>

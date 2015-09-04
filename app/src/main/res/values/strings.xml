@@ -15,4 +15,35 @@
     <string name="drawer_open">Open nav drawer</string>
     <string name="drawer_close">Close nav drawer</string>
 
+    <string name="pref_sound_key">pref_sound</string>
+    <string name="pref_sound_title">Sound</string>
+    <string name="pref_sound_summary">Notification Sound on/off</string>
+
+    <string name="pref_vibration_key">pref_vibration</string>
+    <string name="pref_vibration_title">Vibration</string>
+    <string name="pref_vibration_summary">Notification Vibration on/off</string>
+
+    <string name="pref_updates_key">pref_updates</string>
+    <string name="pref_updates_title">Updates</string>
+    <string name="pref_updates_summary">Choose events to get updates</string>
+
+    <string name="pref_updates_all_key">pref_updates_all</string>
+    <string name="pref_updates_all_title">All Updates</string>
+    <string name="pref_updates_all_summary">Receive all updates</string>
+
+    <string name="pref_updates_cyberquest_key">pref_updates_cyberquest</string>
+    <string name="pref_updates_cyberquest_title">Cyberquest</string>
+
+    <string name="pref_updates_dynamix_key">pref_updates_dynamix</string>
+    <string name="pref_updates_dynamix_title">Dynamix</string>
+
+    <string name="pref_updates_electromania_key">pref_updates_electromania</string>
+    <string name="pref_updates_electromania_title">Electromania</string>
+
+    <string name="pref_updates_genesis_key">pref_updates_genesis</string>
+    <string name="pref_updates_genesis_title">Genesis</string>
+
+    <string name="pref_updates_mechrocosm_key">pref_updates_mechrocosm</string>
+    <string name="pref_updates_mechrocosm_title">Mechrocosm</string>
+
 </resources>

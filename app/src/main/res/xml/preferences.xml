@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="@string/pref_sound_key"
+        android:summary="@string/pref_sound_summary"
+        android:title="@string/pref_sound_title" />
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="@string/pref_vibration_key"
+        android:summary="@string/pref_vibration_summary"
+        android:title="@string/pref_vibration_title" />
+
+    <PreferenceScreen
+        android:key="@string/pref_updates_key"
+        android:persistent="false"
+        android:summary="@string/pref_updates_summary"
+        android:title="@string/pref_updates_title">
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="@string/pref_updates_all_key"
+            android:summary="@string/pref_updates_all_summary"
+            android:title="@string/pref_updates_all_title" />
+
+
+    </PreferenceScreen>
+
+</PreferenceScreen>
